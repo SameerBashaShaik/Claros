@@ -1,0 +1,9 @@
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\bin\Debug\netstandard2.0\ClarosFlute.perStory.Model.deps.json
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\bin\Debug\netstandard2.0\ClarosFlute.perStory.Model.dll
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\bin\Debug\netstandard2.0\ClarosFlute.perStory.Model.pdb
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\obj\Debug\netstandard2.0\ClarosFlute.perStory.Model.csprojAssemblyReference.cache
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\obj\Debug\netstandard2.0\ClarosFlute.perStory.Model.csproj.CoreCompileInputs.cache
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\obj\Debug\netstandard2.0\ClarosFlute.perStory.Model.AssemblyInfoInputs.cache
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\obj\Debug\netstandard2.0\ClarosFlute.perStory.Model.AssemblyInfo.cs
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\obj\Debug\netstandard2.0\ClarosFlute.perStory.Model.dll
+C:\Users\sshaik\source\repos\ClarosFlute\ClarosFlute.perStory.Model\obj\Debug\netstandard2.0\ClarosFlute.perStory.Model.pdb

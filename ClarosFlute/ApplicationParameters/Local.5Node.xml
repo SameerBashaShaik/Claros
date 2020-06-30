@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/ClarosFlute" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="ClarosFlute.perStoryService_PartitionCount" Value="1" />
+    <Parameter Name="ClarosFlute.perStoryService_MinReplicaSetSize" Value="3" />
+    <Parameter Name="ClarosFlute.perStoryService_TargetReplicaSetSize" Value="3" />
+    <Parameter Name="ClarosFlute.API_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="ClarosFlute.API_InstanceCount" Value="1" />
+    <Parameter Name="ClarosFlute.API_InstanceCount" Value="1" />
+    <Parameter Name="AssociateActorService_PartitionCount" Value="1" />
+  </Parameters>
+</Application>

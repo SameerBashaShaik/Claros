@@ -1,0 +1,9 @@
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.deps.json
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.dll
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.pdb
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.csprojAssemblyReference.cache
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.AssemblyInfoInputs.cache
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.AssemblyInfo.cs
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.dll
+C:\Users\sshaik\source\repos\ClarosFlute\AssociateActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\AssociateActor.Interfaces.pdb
